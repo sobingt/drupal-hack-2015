@@ -1,1 +1,2 @@
 The Test Code
+Use git clone to for clonning
