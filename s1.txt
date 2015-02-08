@@ -1,1 +1,3 @@
-The Test Codes
+The Test Codes are ready.
+Use git clone to for clonning
+
